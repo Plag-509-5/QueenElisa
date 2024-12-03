@@ -9,7 +9,7 @@
         "WhatsApp QUEEN-ELISA-MD Bot"
     ],
     "env": {
-        "SESSION_ID": {
+        "SESSION_ID": {"QUEENELISA;;;==QQ2UHMi1kZI5GTXFVV4tWWS9Wejp2doRDNDZ0VzN2apB3dllGbONmS4YESjIWciFzUOFFOpwd=96804474905"
             "description": "Get using Scan QR Code or Using Pair code.",
             "required": true
         },
